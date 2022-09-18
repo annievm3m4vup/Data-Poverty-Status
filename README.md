@@ -5,4 +5,4 @@ Poverty Status in the Past 12 Months by Sex by Age
 
 2. Geographic level: census tract
 
-3. Harris county: _48201
+
